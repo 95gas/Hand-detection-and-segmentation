@@ -1,0 +1,31 @@
+<annotation>
+    <filename>CHESS_COURTYARD_T_B_frame_1623_jpg.rf.497ccb582f9b81edb4c99d123a9115c7.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>204</ymin>
+            <xmax>64</xmax>
+            <ymax>11</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>232</xmin>
+            <ymin>65</ymin>
+            <xmax>42</xmax>
+            <ymax>34</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>57</ymin>
+            <xmax>41</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>
+</annotation>

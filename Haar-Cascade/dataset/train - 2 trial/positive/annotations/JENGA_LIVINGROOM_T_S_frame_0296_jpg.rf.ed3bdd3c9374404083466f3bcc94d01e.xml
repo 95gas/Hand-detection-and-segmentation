@@ -1,0 +1,15 @@
+<annotation>
+    <filename>JENGA_LIVINGROOM_T_S_frame_0296_jpg.rf.ed3bdd3c9374404083466f3bcc94d01e.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>162</xmin>
+            <ymin>78</ymin>
+            <xmax>114</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+</annotation>

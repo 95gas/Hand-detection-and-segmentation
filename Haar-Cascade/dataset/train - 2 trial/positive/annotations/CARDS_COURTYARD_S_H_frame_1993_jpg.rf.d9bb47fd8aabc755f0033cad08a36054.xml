@@ -1,0 +1,31 @@
+<annotation>
+    <filename>CARDS_COURTYARD_S_H_frame_1993_jpg.rf.d9bb47fd8aabc755f0033cad08a36054.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>202</ymin>
+            <xmax>44</xmax>
+            <ymax>13</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>169</xmin>
+            <ymin>57</ymin>
+            <xmax>53</xmax>
+            <ymax>37</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>108</xmin>
+            <ymin>39</ymin>
+            <xmax>53</xmax>
+            <ymax>42</ymax>
+        </bndbox>
+    </object>
+</annotation>

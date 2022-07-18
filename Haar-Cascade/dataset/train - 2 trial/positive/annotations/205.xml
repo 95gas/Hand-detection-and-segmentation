@@ -1,0 +1,31 @@
+<annotation>
+    <filename>205.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>112</xmin>
+            <ymin>108</ymin>
+            <xmax>51</xmax>
+            <ymax>101</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>114</xmin>
+            <ymin>75</ymin>
+            <xmax>121</xmax>
+            <ymax>141</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>170</xmin>
+            <ymin>76</ymin>
+            <xmax>64</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+</annotation>

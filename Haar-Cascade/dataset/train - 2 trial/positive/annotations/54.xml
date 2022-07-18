@@ -1,0 +1,23 @@
+<annotation>
+    <filename>54.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>57</xmin>
+            <ymin>103</ymin>
+            <xmax>96</xmax>
+            <ymax>111</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>196</xmin>
+            <ymin>105</ymin>
+            <xmax>100</xmax>
+            <ymax>110</ymax>
+        </bndbox>
+    </object>
+</annotation>

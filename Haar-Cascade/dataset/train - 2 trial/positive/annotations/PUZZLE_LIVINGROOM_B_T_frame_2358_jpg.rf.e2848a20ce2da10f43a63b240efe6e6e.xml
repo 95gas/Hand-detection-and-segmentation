@@ -1,0 +1,23 @@
+<annotation>
+    <filename>PUZZLE_LIVINGROOM_B_T_frame_2358_jpg.rf.e2848a20ce2da10f43a63b240efe6e6e.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>104</xmin>
+            <ymin>139</ymin>
+            <xmax>103</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>102</ymin>
+            <xmax>8</xmax>
+            <ymax>24</ymax>
+        </bndbox>
+    </object>
+</annotation>

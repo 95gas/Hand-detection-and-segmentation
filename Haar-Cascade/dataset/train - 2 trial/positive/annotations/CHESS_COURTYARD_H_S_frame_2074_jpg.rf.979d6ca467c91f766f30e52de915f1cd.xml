@@ -1,0 +1,31 @@
+<annotation>
+    <filename>CHESS_COURTYARD_H_S_frame_2074_jpg.rf.979d6ca467c91f766f30e52de915f1cd.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>246</xmin>
+            <ymin>140</ymin>
+            <xmax>107</xmax>
+            <ymax>75</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>201</xmin>
+            <ymin>107</ymin>
+            <xmax>53</xmax>
+            <ymax>35</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>44</ymin>
+            <xmax>41</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+</annotation>

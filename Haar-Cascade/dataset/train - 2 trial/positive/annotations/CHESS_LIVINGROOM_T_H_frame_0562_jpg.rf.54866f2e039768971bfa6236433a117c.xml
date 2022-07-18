@@ -1,0 +1,31 @@
+<annotation>
+    <filename>CHESS_LIVINGROOM_T_H_frame_0562_jpg.rf.54866f2e039768971bfa6236433a117c.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>153</xmin>
+            <ymin>48</ymin>
+            <xmax>120</xmax>
+            <ymax>76</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>204</xmin>
+            <ymin>105</ymin>
+            <xmax>43</xmax>
+            <ymax>24</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>93</ymin>
+            <xmax>6</xmax>
+            <ymax>12</ymax>
+        </bndbox>
+    </object>
+</annotation>

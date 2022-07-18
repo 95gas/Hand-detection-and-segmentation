@@ -1,0 +1,15 @@
+<annotation>
+    <filename>JENGA_COURTYARD_B_H_frame_0010_jpg.rf.bfa092050711c08c013ec6fbb8f54afa.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>211</xmin>
+            <ymin>105</ymin>
+            <xmax>9</xmax>
+            <ymax>24</ymax>
+        </bndbox>
+    </object>
+</annotation>

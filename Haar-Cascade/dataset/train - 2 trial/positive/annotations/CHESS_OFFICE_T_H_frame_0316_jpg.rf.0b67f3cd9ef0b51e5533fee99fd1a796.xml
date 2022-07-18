@@ -1,0 +1,31 @@
+<annotation>
+    <filename>CHESS_OFFICE_T_H_frame_0316_jpg.rf.0b67f3cd9ef0b51e5533fee99fd1a796.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>196</xmin>
+            <ymin>129</ymin>
+            <xmax>101</xmax>
+            <ymax>59</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>153</xmin>
+            <ymin>54</ymin>
+            <xmax>42</xmax>
+            <ymax>30</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>113</xmin>
+            <ymin>59</ymin>
+            <xmax>41</xmax>
+            <ymax>27</ymax>
+        </bndbox>
+    </object>
+</annotation>

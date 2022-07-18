@@ -1,0 +1,23 @@
+<annotation>
+    <filename>CHESS_COURTYARD_H_S_frame_1363_jpg.rf.05c68614c48018fe627f788304029074.jpg</filename>
+    <imagesize>
+        <width>384</width>
+        <height>216</height>
+    </imagesize>
+    <object>
+        <bndbox>
+            <xmin>149</xmin>
+            <ymin>70</ymin>
+            <xmax>32</xmax>
+            <ymax>32</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>57</ymin>
+            <xmax>45</xmax>
+            <ymax>35</ymax>
+        </bndbox>
+    </object>
+</annotation>
