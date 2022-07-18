@@ -1,7 +1,4 @@
-﻿// Project.cpp : Defines the entry point for the application.
-//
-
-#include <iostream>
+﻿#include <iostream>
 #include "includes/header.h"
 #include <opencv2/highgui.hpp>
 
