@@ -1,0 +1,35 @@
+<annotation>
+    <filename>PUZZLE_OFFICE_H_B_frame_0723_jpg.rf.6a4ffb3ca1d8681bde7ffc5cf9871095.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>161</xmin>
+            <ymin>594</ymin>
+            <xmax>269</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>813</xmin>
+            <ymin>442</ymin>
+            <xmax>207</xmax>
+            <ymax>224</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>823</xmin>
+            <ymin>245</ymin>
+            <xmax>236</xmax>
+            <ymax>160</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>605</xmin>
+            <ymin>191</ymin>
+            <xmax>195</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+    <filename>88.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>695</xmin>
+            <ymin>219</ymin>
+            <xmax>472</xmax>
+            <ymax>526</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>566</xmin>
+            <ymin>229</ymin>
+            <xmax>323</xmax>
+            <ymax>490</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>826</xmin>
+            <ymin>347</ymin>
+            <xmax>91</xmax>
+            <ymax>102</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>823</xmin>
+            <ymin>260</ymin>
+            <xmax>122</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+</annotation>

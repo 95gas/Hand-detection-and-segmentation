@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PUZZLE_LIVINGROOM_H_S_frame_1217_jpg.rf.5804b94e4c5966a3e3079f093353d229.jpg</filename>
+	<path>PUZZLE_LIVINGROOM_H_S_frame_1217_jpg.rf.5804b94e4c5966a3e3079f093353d229.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>myleft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>258</xmin>
+			<xmax>319</xmax>
+			<ymin>705</ymin>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+    <filename>143.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>154</xmin>
+            <ymin>112</ymin>
+            <xmax>92</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>563</xmin>
+            <ymin>319</ymin>
+            <xmax>44</xmax>
+            <ymax>21</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>69</xmin>
+            <ymin>245</ymin>
+            <xmax>36</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>252</xmin>
+            <ymin>312</ymin>
+            <xmax>70</xmax>
+            <ymax>26</ymax>
+        </bndbox>
+    </object>
+</annotation>

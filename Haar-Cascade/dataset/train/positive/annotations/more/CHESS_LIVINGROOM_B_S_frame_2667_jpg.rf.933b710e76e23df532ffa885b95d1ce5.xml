@@ -1,0 +1,19 @@
+<annotation>
+    <filename>CHESS_LIVINGROOM_B_S_frame_2667_jpg.rf.933b710e76e23df532ffa885b95d1ce5.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>540</xmin>
+            <ymin>265</ymin>
+            <xmax>228</xmax>
+            <ymax>215</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>111</xmin>
+            <ymin>334</ymin>
+            <xmax>181</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+</annotation>

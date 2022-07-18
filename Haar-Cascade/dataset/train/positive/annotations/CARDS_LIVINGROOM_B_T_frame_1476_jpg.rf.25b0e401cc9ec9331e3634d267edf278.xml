@@ -1,0 +1,27 @@
+<annotation>
+    <filename>CARDS_LIVINGROOM_B_T_frame_1476_jpg.rf.25b0e401cc9ec9331e3634d267edf278.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>578</xmin>
+            <ymin>567</ymin>
+            <xmax>278</xmax>
+            <ymax>152</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>704</xmin>
+            <ymin>310</ymin>
+            <xmax>205</xmax>
+            <ymax>125</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>530</xmin>
+            <ymin>306</ymin>
+            <xmax>161</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>
+</annotation>

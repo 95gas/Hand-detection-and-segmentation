@@ -1,0 +1,35 @@
+<annotation>
+    <filename>14.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>89</xmin>
+            <ymin>205</ymin>
+            <xmax>147</xmax>
+            <ymax>370</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>149</xmin>
+            <ymin>187</ymin>
+            <xmax>215</xmax>
+            <ymax>392</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>186</xmin>
+            <ymin>190</ymin>
+            <xmax>177</xmax>
+            <ymax>346</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>151</xmin>
+            <ymin>269</ymin>
+            <xmax>32</xmax>
+            <ymax>47</ymax>
+        </bndbox>
+    </object>
+</annotation>

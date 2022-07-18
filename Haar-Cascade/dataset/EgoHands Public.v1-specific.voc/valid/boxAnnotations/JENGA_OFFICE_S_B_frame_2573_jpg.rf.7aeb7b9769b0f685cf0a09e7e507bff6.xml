@@ -1,0 +1,11 @@
+<annotation>
+    <filename>JENGA_OFFICE_S_B_frame_2573_jpg.rf.7aeb7b9769b0f685cf0a09e7e507bff6.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>458</xmin>
+            <ymin>508</ymin>
+            <xmax>146</xmax>
+            <ymax>131</ymax>
+        </bndbox>
+    </object>
+</annotation>

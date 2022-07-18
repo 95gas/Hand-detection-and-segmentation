@@ -1,0 +1,35 @@
+<annotation>
+    <filename>CHESS_OFFICE_S_B_frame_1320_jpg.rf.70e4eba4541559a76d7cd72a04fadec4.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>612</ymin>
+            <xmax>338</xmax>
+            <ymax>108</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>702</xmin>
+            <ymin>673</ymin>
+            <xmax>293</xmax>
+            <ymax>44</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>677</xmin>
+            <ymin>7</ymin>
+            <xmax>194</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>316</xmin>
+            <ymin>2</ymin>
+            <xmax>120</xmax>
+            <ymax>59</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+    <filename>PUZZLE_LIVINGROOM_T_B_frame_1077_jpg.rf.a70ea4aa97b1fb12be6105c3b161d2ea.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>516</xmin>
+            <ymin>396</ymin>
+            <xmax>759</xmax>
+            <ymax>317</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>349</xmin>
+            <ymin>1</ymin>
+            <xmax>269</xmax>
+            <ymax>175</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>8</xmin>
+            <ymin>12</ymin>
+            <xmax>74</xmax>
+            <ymax>170</ymax>
+        </bndbox>
+    </object>
+</annotation>

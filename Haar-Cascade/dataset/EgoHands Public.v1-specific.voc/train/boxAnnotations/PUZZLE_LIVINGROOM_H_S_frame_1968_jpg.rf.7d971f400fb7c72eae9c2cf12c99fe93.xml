@@ -1,0 +1,19 @@
+<annotation>
+    <filename>PUZZLE_LIVINGROOM_H_S_frame_1968_jpg.rf.7d971f400fb7c72eae9c2cf12c99fe93.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>905</xmin>
+            <ymin>9</ymin>
+            <xmax>165</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>125</xmin>
+            <ymin>6</ymin>
+            <xmax>284</xmax>
+            <ymax>143</ymax>
+        </bndbox>
+    </object>
+</annotation>

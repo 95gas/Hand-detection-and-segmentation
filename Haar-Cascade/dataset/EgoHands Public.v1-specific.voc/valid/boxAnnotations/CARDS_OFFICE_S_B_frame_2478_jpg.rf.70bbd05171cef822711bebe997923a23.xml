@@ -1,0 +1,27 @@
+<annotation>
+    <filename>CARDS_OFFICE_S_B_frame_2478_jpg.rf.70bbd05171cef822711bebe997923a23.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>251</xmin>
+            <ymin>574</ymin>
+            <xmax>286</xmax>
+            <ymax>145</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>431</xmin>
+            <ymin>341</ymin>
+            <xmax>158</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>272</xmin>
+            <ymin>351</ymin>
+            <xmax>136</xmax>
+            <ymax>132</ymax>
+        </bndbox>
+    </object>
+</annotation>

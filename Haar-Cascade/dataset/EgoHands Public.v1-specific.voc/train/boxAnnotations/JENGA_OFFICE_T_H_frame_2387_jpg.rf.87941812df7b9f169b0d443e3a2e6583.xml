@@ -1,0 +1,19 @@
+<annotation>
+    <filename>JENGA_OFFICE_T_H_frame_2387_jpg.rf.87941812df7b9f169b0d443e3a2e6583.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>198</ymin>
+            <xmax>328</xmax>
+            <ymax>232</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>193</ymin>
+            <xmax>160</xmax>
+            <ymax>125</ymax>
+        </bndbox>
+    </object>
+</annotation>

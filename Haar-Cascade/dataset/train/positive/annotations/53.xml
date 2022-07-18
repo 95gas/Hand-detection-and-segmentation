@@ -1,0 +1,35 @@
+<annotation>
+    <filename>53.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>1072</xmin>
+            <ymin>590</ymin>
+            <xmax>413</xmax>
+            <ymax>919</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>1799</xmin>
+            <ymin>1173</ymin>
+            <xmax>644</xmax>
+            <ymax>369</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>1843</xmin>
+            <ymin>928</ymin>
+            <xmax>486</xmax>
+            <ymax>339</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>2446</xmin>
+            <ymin>884</ymin>
+            <xmax>1</xmax>
+            <ymax>1</ymax>
+        </bndbox>
+    </object>
+</annotation>

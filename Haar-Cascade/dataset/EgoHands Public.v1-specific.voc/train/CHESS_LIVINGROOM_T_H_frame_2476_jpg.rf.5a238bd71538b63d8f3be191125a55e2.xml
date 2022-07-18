@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>CHESS_LIVINGROOM_T_H_frame_2476_jpg.rf.5a238bd71538b63d8f3be191125a55e2.jpg</filename>
+	<path>CHESS_LIVINGROOM_T_H_frame_2476_jpg.rf.5a238bd71538b63d8f3be191125a55e2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>myright</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>356</xmin>
+			<xmax>843</xmax>
+			<ymin>232</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

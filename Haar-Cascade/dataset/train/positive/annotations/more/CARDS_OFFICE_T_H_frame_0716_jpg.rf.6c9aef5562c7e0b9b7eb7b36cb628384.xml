@@ -1,0 +1,35 @@
+<annotation>
+    <filename>CARDS_OFFICE_T_H_frame_0716_jpg.rf.6c9aef5562c7e0b9b7eb7b36cb628384.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>280</xmin>
+            <ymin>691</ymin>
+            <xmax>63</xmax>
+            <ymax>27</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>530</xmin>
+            <ymin>585</ymin>
+            <xmax>301</xmax>
+            <ymax>135</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>598</xmin>
+            <ymin>182</ymin>
+            <xmax>133</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>458</xmin>
+            <ymin>188</ymin>
+            <xmax>93</xmax>
+            <ymax>96</ymax>
+        </bndbox>
+    </object>
+</annotation>

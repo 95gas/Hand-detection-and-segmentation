@@ -1,0 +1,19 @@
+<annotation>
+    <filename>PUZZLE_OFFICE_B_H_frame_1524_jpg.rf.fe52ba9a65b6d868cedda8dedcff2e94.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>720</xmin>
+            <ymin>596</ymin>
+            <xmax>372</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>7</xmin>
+            <ymin>243</ymin>
+            <xmax>200</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+</annotation>

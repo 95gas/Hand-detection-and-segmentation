@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PUZZLE_COURTYARD_S_B_frame_0589_jpg.rf.147d2357e6de9b3c3ea97b4b5d73a61a.jpg</filename>
+	<path>PUZZLE_COURTYARD_S_B_frame_0589_jpg.rf.147d2357e6de9b3c3ea97b4b5d73a61a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yourleft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>400</xmin>
+			<xmax>586</xmax>
+			<ymin>3</ymin>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

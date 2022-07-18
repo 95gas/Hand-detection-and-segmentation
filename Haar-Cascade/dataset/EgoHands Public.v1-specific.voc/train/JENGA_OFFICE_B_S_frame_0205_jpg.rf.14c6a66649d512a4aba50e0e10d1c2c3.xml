@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>JENGA_OFFICE_B_S_frame_0205_jpg.rf.14c6a66649d512a4aba50e0e10d1c2c3.jpg</filename>
+	<path>JENGA_OFFICE_B_S_frame_0205_jpg.rf.14c6a66649d512a4aba50e0e10d1c2c3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>myright</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>562</xmin>
+			<xmax>862</xmax>
+			<ymin>315</ymin>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

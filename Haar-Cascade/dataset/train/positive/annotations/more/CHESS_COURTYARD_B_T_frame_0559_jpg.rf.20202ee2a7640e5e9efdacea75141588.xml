@@ -1,0 +1,19 @@
+<annotation>
+    <filename>CHESS_COURTYARD_B_T_frame_0559_jpg.rf.20202ee2a7640e5e9efdacea75141588.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>751</xmin>
+            <ymin>354</ymin>
+            <xmax>155</xmax>
+            <ymax>105</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>602</xmin>
+            <ymin>347</ymin>
+            <xmax>147</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>
+</annotation>

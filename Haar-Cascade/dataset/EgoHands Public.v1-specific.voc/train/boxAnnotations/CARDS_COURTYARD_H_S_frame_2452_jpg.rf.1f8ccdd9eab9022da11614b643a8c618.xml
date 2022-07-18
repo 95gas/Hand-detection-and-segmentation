@@ -1,0 +1,35 @@
+<annotation>
+    <filename>CARDS_COURTYARD_H_S_frame_2452_jpg.rf.1f8ccdd9eab9022da11614b643a8c618.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>254</xmin>
+            <ymin>614</ymin>
+            <xmax>133</xmax>
+            <ymax>106</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>596</xmin>
+            <ymin>481</ymin>
+            <xmax>263</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>564</xmin>
+            <ymin>241</ymin>
+            <xmax>136</xmax>
+            <ymax>106</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>433</xmin>
+            <ymin>251</ymin>
+            <xmax>127</xmax>
+            <ymax>110</ymax>
+        </bndbox>
+    </object>
+</annotation>

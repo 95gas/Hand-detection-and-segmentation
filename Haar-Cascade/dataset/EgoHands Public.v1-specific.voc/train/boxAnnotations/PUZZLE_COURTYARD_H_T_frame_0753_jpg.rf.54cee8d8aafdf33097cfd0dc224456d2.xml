@@ -1,0 +1,19 @@
+<annotation>
+    <filename>PUZZLE_COURTYARD_H_T_frame_0753_jpg.rf.54cee8d8aafdf33097cfd0dc224456d2.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>809</xmin>
+            <ymin>364</ymin>
+            <xmax>235</xmax>
+            <ymax>276</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>263</xmin>
+            <ymin>385</ymin>
+            <xmax>202</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>
+</annotation>

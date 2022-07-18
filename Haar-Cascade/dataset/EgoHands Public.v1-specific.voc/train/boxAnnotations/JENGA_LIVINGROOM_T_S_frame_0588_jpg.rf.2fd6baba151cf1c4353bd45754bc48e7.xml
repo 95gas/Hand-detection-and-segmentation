@@ -1,0 +1,27 @@
+<annotation>
+    <filename>JENGA_LIVINGROOM_T_S_frame_0588_jpg.rf.2fd6baba151cf1c4353bd45754bc48e7.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>7</xmin>
+            <ymin>363</ymin>
+            <xmax>410</xmax>
+            <ymax>356</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>606</xmin>
+            <ymin>556</ymin>
+            <xmax>217</xmax>
+            <ymax>163</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>210</xmin>
+            <ymin>585</ymin>
+            <xmax>191</xmax>
+            <ymax>133</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+    <filename>JENGA_COURTYARD_H_B_frame_1326_jpg.rf.ac27d1df16d9daeb2b55a646b48211a4.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>583</xmin>
+            <ymin>692</ymin>
+            <xmax>159</xmax>
+            <ymax>27</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>667</xmin>
+            <ymin>312</ymin>
+            <xmax>140</xmax>
+            <ymax>136</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>320</xmin>
+            <ymin>198</ymin>
+            <xmax>106</xmax>
+            <ymax>165</ymax>
+        </bndbox>
+    </object>
+</annotation>

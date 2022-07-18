@@ -1,0 +1,35 @@
+<annotation>
+    <filename>PUZZLE_COURTYARD_S_B_frame_1038_jpg.rf.664763f2c3c42825d0f76ce5cc6a22c5.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>511</ymin>
+            <xmax>364</xmax>
+            <ymax>207</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>643</xmin>
+            <ymin>466</ymin>
+            <xmax>172</xmax>
+            <ymax>241</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>523</xmin>
+            <ymin>280</ymin>
+            <xmax>206</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>502</ymin>
+            <xmax>61</xmax>
+            <ymax>216</ymax>
+        </bndbox>
+    </object>
+</annotation>

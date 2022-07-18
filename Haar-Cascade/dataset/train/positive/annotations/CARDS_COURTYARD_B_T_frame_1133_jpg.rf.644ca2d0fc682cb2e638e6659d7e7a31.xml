@@ -1,0 +1,19 @@
+<annotation>
+    <filename>CARDS_COURTYARD_B_T_frame_1133_jpg.rf.644ca2d0fc682cb2e638e6659d7e7a31.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>631</xmin>
+            <ymin>471</ymin>
+            <xmax>147</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>450</xmin>
+            <ymin>447</ymin>
+            <xmax>163</xmax>
+            <ymax>128</ymax>
+        </bndbox>
+    </object>
+</annotation>

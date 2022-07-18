@@ -1,0 +1,6 @@
+C:\Users\gazzo\Desktop\Project\Project\dataset\train>opencv_traincascade -data haarcascade -vec trainingSamples.vec -bg negative.dat -w 30 -h 60 -mode ALL
+
+C:\Users\gazzo\Desktop\Project\Project\dataset\train>opencv_createsamples -info positive.dat -vec trainingSamples.vec -num 1000 -w 30 -h 60
+
+
+

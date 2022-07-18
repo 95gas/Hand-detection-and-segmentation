@@ -1,0 +1,35 @@
+<annotation>
+    <filename>CARDS_COURTYARD_T_B_frame_1924_jpg.rf.c9e0e10b43f4982aa193b403277eb703.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>267</xmin>
+            <ymin>705</ymin>
+            <xmax>69</xmax>
+            <ymax>13</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>487</xmin>
+            <ymin>473</ymin>
+            <xmax>262</xmax>
+            <ymax>217</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>272</ymin>
+            <xmax>127</xmax>
+            <ymax>104</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>383</xmin>
+            <ymin>293</ymin>
+            <xmax>156</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    </object>
+</annotation>

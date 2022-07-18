@@ -1,0 +1,27 @@
+<annotation>
+    <filename>JENGA_OFFICE_T_H_frame_2435_jpg.rf.07a55b008aeb87a582cc978310edaa68.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>137</xmin>
+            <ymin>665</ymin>
+            <xmax>191</xmax>
+            <ymax>53</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>624</xmin>
+            <ymin>400</ymin>
+            <xmax>93</xmax>
+            <ymax>110</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>312</xmin>
+            <ymin>134</ymin>
+            <xmax>131</xmax>
+            <ymax>101</ymax>
+        </bndbox>
+    </object>
+</annotation>

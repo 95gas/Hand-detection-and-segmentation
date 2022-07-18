@@ -1,0 +1,19 @@
+<annotation>
+    <filename>214.jpg</filename>
+    <object>
+        <bndbox>
+            <xmin>447</xmin>
+            <ymin>196</ymin>
+            <xmax>175</xmax>
+            <ymax>187</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <bndbox>
+            <xmin>576</xmin>
+            <ymin>446</ymin>
+            <xmax>236</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>
+</annotation>

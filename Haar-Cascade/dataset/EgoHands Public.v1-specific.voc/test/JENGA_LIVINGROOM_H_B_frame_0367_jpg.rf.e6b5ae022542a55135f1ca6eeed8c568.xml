@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>JENGA_LIVINGROOM_H_B_frame_0367_jpg.rf.e6b5ae022542a55135f1ca6eeed8c568.jpg</filename>
+	<path>JENGA_LIVINGROOM_H_B_frame_0367_jpg.rf.e6b5ae022542a55135f1ca6eeed8c568.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>myright</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>514</xmin>
+			<xmax>833</xmax>
+			<ymin>304</ymin>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

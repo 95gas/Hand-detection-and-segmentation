@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>JENGA_LIVINGROOM_B_H_frame_1618_jpg.rf.8bfa35ea6dc22476ee9bcb287a96564a.jpg</filename>
+	<path>JENGA_LIVINGROOM_B_H_frame_1618_jpg.rf.8bfa35ea6dc22476ee9bcb287a96564a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
