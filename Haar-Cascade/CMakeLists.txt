@@ -10,6 +10,6 @@ find_package( OpenCV REQUIRED )
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 
 # Add source to this project's executable.
-add_executable (Project "Project.cpp" "includes/header.h" "libs/utilities.cpp" "includes/tinyxml2.h" "libs/tinyxml2.cpp")
+add_executable (Project "Project.cpp" "includes/header.h" "libs/prepareTraining.cpp" "includes/tinyxml2.h" "libs/tinyxml2.cpp" "libs/cascadeDetection.cpp")
 
 target_link_libraries( ${PROJECT_NAME} ${OpenCV_LIBS} )
