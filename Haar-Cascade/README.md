@@ -8,4 +8,4 @@ This was almost expected considering that the Haar Cascade classifier cannot man
  - a classifier for predicting hands in orrizontal orientation. Hence we need an orizontal rectangle window size such as 60x30
  - a classifier for predicting hands in oblique orientation. We might try using a square window size such as 24x24. 
 
-However, given the lack support for gpu computation of the built-in opencv function for training the classifier, training 3 classifier will require some days. 
+However, given the lack support for gpu computation of the built-in opencv function for training the classifier, training 3 classifier will require some days. Hence, we move towards a more modern feasible solution. 
