@@ -1,6 +1,4 @@
-# Hand-Detection-and-Segmentation
- 
-## Haar cascade classifier - 1st approach
+## Haar cascade hand detection
 We tried to train a Cascade classifier with a window size of 30x60 for detecting hands. 
 We couldn't achieve good results by using this approach since we get a lot of false positive predicted. These bad results come from the fact that the Haar Cascade classifier cannot manage to detect object of different viewpoints. Indeed, in our train dataset we consider hands of different orientation, but using a 30x60 window size for training on also orizontal oriented hands leads to deformation of the hand samples and moreover gets included a lot of background in the samples.
 For improving our solution we might need to go through the dataset and select only vertical oriented hands for training. In this case our classifier would be able to correctly detect only vertical hands.
